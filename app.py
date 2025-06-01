@@ -2,7 +2,7 @@ from MaquinaPost import MaquinaPost
 
 # Configuração inicial
 MAX_ITERACOES = 10000
-palavra = "aaabbcc"
+palavra = "aabbcc"
 arquivo_instrucoes = "Instrucoes\instrucoes_anbncn.txt"
 
 # Inicializa a Máquina de Post com a palavra e instruções fornecidas
